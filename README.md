@@ -40,7 +40,7 @@ This project includes various documentation and reports to ensure comprehensive 
 
 **2.Mind Map**
 &#x25CB; A mindmap outlining the testing strategy, covering major areas of testing like functional, non-functional, UI, and API testing. 
-[Mind Map](https://drive.google.com/file/d/13ArnXmDKfaqHZ9HNrrLivyHTz6rt7_-1/view?usp=sharing)     <br/>
+[Mind Map](https://drive.google.com/file/d/13ArnXmDKfaqHZ9HNrrLivyHTz6rt7_-1/view?usp=sharing)    
 
 **3.Test Plan**
 &#x25CB; A comprehensive Test Plan document detailing the scope, objectives, testing types, strategy and timelines.  <br/>
