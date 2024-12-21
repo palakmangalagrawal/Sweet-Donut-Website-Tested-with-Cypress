@@ -13,52 +13,52 @@
 ![Page Object Model]( https://img.shields.io/badge/Page_Object_Model-Framework-00A859)   <br/>
 
 ## 📂 Features Tested
-**1.Search Functionality:**
+**1.Search Functionality:**  <br/>
 
-&#x25CF; Ensured that search results match expected results based on queries.
-&#x25CF; Validated search filters like category, price, and brand.
+&#x25CF; Ensured that search results match expected results based on queries.  <br/>
+&#x25CF; Validated search filters like category, price, and brand.  <br/>
 
-**2.Cart and Wishlist Management:**
+**2.Cart and Wishlist Management:**  <br/>
 
-&#x25CF; Validated the ability to add, remove, and update products in both the cart and wishlist.
-&#x25CF; Verified that the cart retains items across user sessions.
+&#x25CF; Validated the ability to add, remove, and update products in both the cart and wishlist.  <br/>
+&#x25CF; Verified that the cart retains items across user sessions.  <br/>
 
-**3.Checkout Process:**
+**3.Checkout Process:**  <br/>
 
-&#x25CF; Fully tested the checkout workflow,entering shipping details, and processing payments.
-&#x25CF; Ensured that the order confirmation page is correctly displayed after completing the purchase.
+&#x25CF; Fully tested the checkout workflow,entering shipping details, and processing payments.  <br/>
+&#x25CF; Ensured that the order confirmation page is correctly displayed after completing the purchase.  <br/>
 
-**4.UI Testing and Responsiveness:**
+**4.UI Testing and Responsiveness:**  <br/>
 
-&#x25CF; Verified that the website adjusts and looks correctly on desktop, tablet, and mobile screens.
-&#x25CF; Ensured UI elements like buttons and navigation align properly across devices.
+&#x25CF; Verified that the website adjusts and looks correctly on desktop, tablet, and mobile screens. <br/>
+&#x25CF; Ensured UI elements like buttons and navigation align properly across devices.  <br/>
 
-## 📄 Artifacts Included
+## 📄 Artifacts Included   
 
 This project includes various documentation and reports to ensure comprehensive coverage and traceability: <br/>
-**1.Test scripts**
+**1.Test scripts**  <br/>
 &#x25CF; Modular Cypress test scripts following the Page Object Model (POM), covering core features like login, search, cart management, and checkout.  <br/>
 &#x25CF; Each test case is structured to ensure reusability and maintainability, making the tests scalable.   <br/>
 
-**2.Mind Map**
+**2.Mind Map**  <br/>
 &#x25CF; A mindmap outlining the testing strategy, covering major areas of testing like functional, non-functional, UI, and API testing. 
 [Mind Map](https://drive.google.com/file/d/13ArnXmDKfaqHZ9HNrrLivyHTz6rt7_-1/view?usp=sharing)    
 
-**3.Test Plan**
+**3.Test Plan**  <br/>
 &#x25CF; A comprehensive Test Plan document detailing the scope, objectives, testing types, strategy and timelines.  <br/>
 &#x25CF; The plan outlines the testing approach for both manual and automated tests.     
 [Test Plan](https://docs.google.com/document/d/1FHy8_-VzdE6gzrt3AXEY4eaWp6gboP53Ov-DqzatiUM/edit?usp=sharing)
 
-**4.Test Cases**
+**4.Test Cases**  <br/>
 &#x25CF; Manual test cases for non-functional testing covering performance, security, and usability tests.  <br/>
 &#x25CF; These cases ensure the application can handle large user loads, is secure, and provides a good user experience. 
 [Test Cases](https://docs.google.com/spreadsheets/d/1f4yT4LZSFxcR5_v0JqbCn-7ZahEtCtJIq-N9_38Nhqs/edit?usp=sharing)
 
-**5.Bug Report**
+**5.Bug Report**  <br/>
 &#x25CF; A detailed bug report listing all issues discovered during testing, including bug IDs, descriptions, severity, steps to reproduce, and status.  
 [Bug Report](https://docs.google.com/spreadsheets/d/1ITzna8xxUmHQrCCHoKin01GisjSKo6ALiM6a3NgoBuo/edit?usp=sharing)
 
-**6.Test Summary Report**
+**6.Test Summary Report**  <br/>
 &#x25CF; A summary of test execution results, including the number of test cases passed, failed, skipped, and details on any major defects found.  <br/>
 &#x25CF; The report includes high-level recommendations based on the testing outcomes. 
 [Summary Report](https://docs.google.com/document/d/1baA9FAYxBO7uLyVNrxEQe53jMQNvS0gygf3LUPw8CdI/edit?usp=sharing)
