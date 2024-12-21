@@ -33,7 +33,7 @@
 
 ## 📄 Artifacts Included
 
-This project includes various documentation and reports to ensure comprehensive coverage and traceability:
+This project includes various documentation and reports to ensure comprehensive coverage and traceability: <br/>
 **1.Test scripts**
 &#x25CB; Modular Cypress test scripts following the Page Object Model (POM), covering core features like login, search, cart management, and checkout.  <br/>
 &#x25CB; Each test case is structured to ensure reusability and maintainability, making the tests scalable.   <br/>
