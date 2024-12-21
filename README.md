@@ -1,6 +1,6 @@
 # Sweet-Donut-Website-Tested-with-Cypress
 
-                      ![image](https://github.com/user-attachments/assets/16977c6d-b2c8-401a-98e4-d59ce4fefb9d)
+![image](https://github.com/user-attachments/assets/16977c6d-b2c8-401a-98e4-d59ce4fefb9d)
                       
 
 ## 📌 Project Overview
@@ -39,26 +39,26 @@ This project includes various documentation and reports to ensure comprehensive 
 &#x25CB; Each test case is structured to ensure reusability and maintainability, making the tests scalable.   <br/>
 
 **2.Mind Map**
-&#x25CB; A mindmap outlining the testing strategy, covering major areas of testing like functional, non-functional, UI, and API testing.   <br/>
+&#x25CB; A mindmap outlining the testing strategy, covering major areas of testing like functional, non-functional, UI, and API testing. 
 [Mind Map](https://drive.google.com/file/d/13ArnXmDKfaqHZ9HNrrLivyHTz6rt7_-1/view?usp=sharing)     <br/>
 
 **3.Test Plan**
 &#x25CB; A comprehensive Test Plan document detailing the scope, objectives, testing types, strategy and timelines.  <br/>
-&#x25CB; The plan outlines the testing approach for both manual and automated tests.     <br/>
+&#x25CB; The plan outlines the testing approach for both manual and automated tests.     
 [Test Plan](https://docs.google.com/document/d/1FHy8_-VzdE6gzrt3AXEY4eaWp6gboP53Ov-DqzatiUM/edit?usp=sharing)
 
 **4.Test Cases**
 &#x25CB; Manual test cases for non-functional testing covering performance, security, and usability tests.  <br/>
-&#x25CB; These cases ensure the application can handle large user loads, is secure, and provides a good user experience. <br/>
+&#x25CB; These cases ensure the application can handle large user loads, is secure, and provides a good user experience. 
 [Test Cases](https://docs.google.com/spreadsheets/d/1f4yT4LZSFxcR5_v0JqbCn-7ZahEtCtJIq-N9_38Nhqs/edit?usp=sharing)
 
 **5.Bug Report**
-&#x25CB; A detailed bug report listing all issues discovered during testing, including bug IDs, descriptions, severity, steps to reproduce, and status.  <br/>
+&#x25CB; A detailed bug report listing all issues discovered during testing, including bug IDs, descriptions, severity, steps to reproduce, and status.  
 [Bug Report](https://docs.google.com/spreadsheets/d/1ITzna8xxUmHQrCCHoKin01GisjSKo6ALiM6a3NgoBuo/edit?usp=sharing)
 
 **6.Test Summary Report**
 &#x25CB; A summary of test execution results, including the number of test cases passed, failed, skipped, and details on any major defects found.  <br/>
-&#x25CB; The report includes high-level recommendations based on the testing outcomes. <br/>
+&#x25CB; The report includes high-level recommendations based on the testing outcomes. 
 [Summary Report](https://docs.google.com/document/d/1baA9FAYxBO7uLyVNrxEQe53jMQNvS0gygf3LUPw8CdI/edit?usp=sharing)
 
 ## ✨ Highlights
